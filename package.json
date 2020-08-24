@@ -1,0 +1,11 @@
+{
+  "name": "react-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dptorri/react-starter.git",
+  "author": "dptorri <dptorri@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
